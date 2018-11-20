@@ -6,3 +6,7 @@ In this repository, there are
   - the validation performances of classifiers
   - the predictions
   - the classifier hyperparameters
+
+The preprocessed data are 30x30 arrays, stored in numpy binary code.
+
+The validation performances of classifiers are actually GridSearchCV.cv_results_.
