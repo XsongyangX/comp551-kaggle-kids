@@ -1,0 +1,7 @@
+Summary file:
+
+Best classifier is decision trees:
+   validation f1-score 0.286
+
+Remaning classifiers
+

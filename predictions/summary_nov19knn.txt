@@ -1,0 +1,7 @@
+Summary file:
+
+Best classifier is kNN:
+   validation f1-score 0.52
+
+Remaning classifiers
+

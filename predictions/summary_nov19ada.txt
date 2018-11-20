@@ -1,0 +1,7 @@
+Summary file:
+
+Best classifier is adaboost:
+   validation f1-score 0.3425
+
+Remaning classifiers
+
