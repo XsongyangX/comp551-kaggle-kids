@@ -1,0 +1,12 @@
+,mean_fit_time,mean_score_time,mean_test_score,mean_train_score,param_base_estimator,params,rank_test_score,split0_test_score,split0_train_score,split1_test_score,split1_train_score,split2_test_score,split2_train_score,split3_test_score,split3_train_score,split4_test_score,split4_train_score,std_fit_time,std_score_time,std_test_score,std_train_score
+0,22.054876375198365,0.09154710769653321,0.215125,0.22905153557342722,"DecisionTreeClassifier(class_weight=None, criterion='gini', max_depth=1,
+            max_features=None, max_leaf_nodes=None,
+            min_impurity_decrease=0.0, min_impurity_split=None,
+            min_samples_leaf=1, min_samples_split=2,
+            min_weight_fraction_leaf=0.0, presort=False, random_state=None,
+            splitter='best')","{'base_estimator': DecisionTreeClassifier(class_weight=None, criterion='gini', max_depth=1,
+            max_features=None, max_leaf_nodes=None,
+            min_impurity_decrease=0.0, min_impurity_split=None,
+            min_samples_leaf=1, min_samples_split=2,
+            min_weight_fraction_leaf=0.0, presort=False, random_state=None,
+            splitter='best')}",1,0.24317617866004962,0.2531308703819662,0.1804604853764779,0.17785077428437354,0.21722846441947566,0.22929040325101593,0.21029504080351538,0.24254721398470422,0.2244640605296343,0.2424384159650764,0.11453357958311237,0.0007155113812400265,0.02056096918199334,0.02669356207615874
