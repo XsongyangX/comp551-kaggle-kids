@@ -1,0 +1,7 @@
+Summary file:
+
+Best classifier is svm:
+   validation f1-score 0.3115
+
+Remaining classifiers
+
