@@ -1,6 +1,0 @@
-Summary file:
-
-Best classifier is neural network:
-   validation f1-score 0.18549999999999997
-
-
