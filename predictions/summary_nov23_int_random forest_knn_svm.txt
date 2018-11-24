@@ -1,0 +1,13 @@
+Summary file:
+
+Best classifier is random forests:
+   validation f1-score 0.5245
+
+Remaining classifiers
+
+Runner-up classifier is kNN:
+   validation f1-score 0.5225
+
+Runner-up classifier is svm:
+   validation f1-score 0.277
+
