@@ -1,0 +1,7 @@
+Summary file:
+
+Best classifier is bagging:
+   validation f1-score 0.517
+
+Remaining classifiers
+
