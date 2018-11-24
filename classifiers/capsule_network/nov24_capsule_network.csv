@@ -1,0 +1,2 @@
+,params
+0,"{'routings': 2, 'batch_size': 50, 'epochs': 25, 'lr_decay': 0.9, 'lr': 0.001, 'lam_recon': 0.45, 'shift_fraction': 0.1}"
