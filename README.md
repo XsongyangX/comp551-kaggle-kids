@@ -6,6 +6,7 @@ In this repository, there are
   - the validation performances of classifiers
   - the predictions
   - the classifier hyperparameters
+  - the generator script
 
 The preprocessed data are 30x30 arrays, stored in numpy binary code.
 
